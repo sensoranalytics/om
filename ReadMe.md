@@ -1,5 +1,9 @@
-OGC(r) Observations and Measurements XML ReadMe.txt
-===================================================
+
+OGC(r) Observations and Measurements XML
+========================================
+This repository hosts the OGC-approved standard versions of the 
+Observations & Measurements (OM) XML schemas. We are adding this 
+as a public service as the schemas are not hosted on Github.
 
 OGC 07-022r1 defines the GML Application Schema version of the O&M 1.0.0 model. 
 OGC 10-025r1 defines the Observations and Measurements XML (OMXML) 2.0 standard.
