@@ -1,4 +1,3 @@
-
 OGC(r) Observations and Measurements XML
 ========================================
 This repository hosts the OGC-approved standard versions of the 
@@ -64,9 +63,8 @@ Copyright (c) 2012 Open Geospatial Consortium.
 -----------------------------------------------------------------------
 
 #######################################################################
-# 2008-02-07 unified diff fix for om/1.0.0
-Index: extensions/om_extended.xsd
-===================================================================
+2008-02-07 unified diff fix for om/1.0.0 Index: extensions/om_extended.xsd
+----------------------------------------------------------
 --- extensions/om_extended.xsd	(revision 3013)
 +++ extensions/om_extended.xsd	(working copy)
 @@ -1,5 +1,5 @@
@@ -77,7 +75,7 @@ Index: extensions/om_extended.xsd
  		<documentation>om.xsd
  
 Index: extensions/observationSpecialization_constraint.xsd
-===================================================================
+----------------------------------------------------------
 --- extensions/observationSpecialization_constraint.xsd	(revision 3013)
 +++ extensions/observationSpecialization_constraint.xsd	(working copy)
 @@ -11,7 +11,7 @@
